@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
 xml:lang="es"
-xml:base="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-Albert0PB/">
+xml:base="https://reimagined-adventure-93lrgjp.pages.github.io/">
   <id>https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-Albert0PB/</id>
   <title>
     Noticias diversas
@@ -9,7 +9,7 @@ xml:base="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-Albert0PB/
   <author>
     <name>Alberto Pérez Bernabeu</name>
   </author>
-  <link href="https://iesgrancapitan-llmm.github.io/mi-primera-pagina-web-Albert0PB/" rel="self" />
+  <link href="https://reimagined-adventure-93lrgjp.pages.github.io/" rel="self" />
   <updated>2024-05-19T00:00:00Z</updated>
   <rights>GPL</rights>
 
